@@ -18,5 +18,5 @@ Create a multiple-choice trivia application.
 <br>
 <br>
 <b>Delay reason</b>
-<br> Initially choose Spring boot with h2DB. which need time for configuration .
-<br> 
+<br> Initially haven choose Spring boot with h2DB. which needed time for configuration . 
+ 
