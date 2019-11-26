@@ -1,9 +1,10 @@
 # quiz
 quiz with multi choice questionnaire
+<b> Input questions to the application 
+<br> <a href ="https://github.com/sandeepamilineni/quiz/tree/master/game">Questions.csv</a>
 
-<b>Completed below Implementation : </b>
-
-Create a multiple-choice trivia application.
+<br><b>Completed below Implementation : </b>
+<br>Create a multiple-choice trivia application.
 <br> Read questions, answers, and distractors (wrong answers) from a file.
 <br> When a player starts a game
 <br> Choose questions at random.
